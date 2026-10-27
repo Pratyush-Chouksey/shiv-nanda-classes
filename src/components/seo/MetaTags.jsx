@@ -115,12 +115,17 @@ export default function MetaTags() {
       <link rel="canonical" href={siteUrl} />
       <meta name="theme-color" content="#0B0A1F" />
 
-      {/* Open Graph / Facebook */}
+      {/* Open Graph / Facebook / WhatsApp */}
       <meta property="og:type" content="website" />
       <meta property="og:url" content={siteUrl} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={ogImageUrl} />
+      <meta property="og:image:secure_url" content={ogImageUrl} />
+      <meta property="og:image:type" content="image/jpeg" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="669" />
+      <meta property="og:image:alt" content="Shiva Nanda Kathak Classes - Classical Kathak Academy in Andheri West Mumbai" />
       <meta property="og:site_name" content={siteConfig.academyName} />
       <meta property="og:locale" content="en_IN" />
 
