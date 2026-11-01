@@ -37,7 +37,7 @@ export default function GandharvaStepper() {
       step: 4,
       name: "Visharad",
       devanagari: "विशारद",
-      level: "Stage 4 • Classical Degree",
+      level: "Stage 4 • Advanced Diploma",
       duration: "Years 6 – 7",
       desc: "Visharad Pratham & Purna. Equivalent to Bachelor of Arts. Solo stage presentation, intricate Layakari, and viva examination.",
     },

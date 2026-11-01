@@ -122,7 +122,7 @@ export const aboutTeacher = {
     },
   ],
   qualifications: [
-    "Alankaar from Akhil Bharatiya Gandharva Mahavidyalaya Mandal",
+    "Alankaar Diploma from Akhil Bharatiya Gandharva Mahavidyalaya Mandal",
     "Master of Arts (M.A.) in Kathak from Indira Kala Sangeet Vishwavidyalaya, Khairagarh",
   ],
   teachingExperience: "Teaching since 2014 (12+ years of dedicated mentoring)",
@@ -131,7 +131,7 @@ export const aboutTeacher = {
   
   // Warm, well-written 3 paragraphs strictly following verified facts
   bioParagraphs: [
-    "Samidha Karanjekar is an accomplished Kathak performer and dedicated dance educator who has been nurturing disciples since 2014, with over 12 years of rich teaching experience. She has undergone intensive classical training in the prestigious Jaipur Gharana of Kathak under the esteemed Guru Shri Rajkumar Jaipurwale ji and Guru Smt. Archana Patni ji. Her artistic depth is anchored by premier academic and classical credentials, holding an Alankaar from the Akhil Bharatiya Gandharva Mahavidyalaya Mandal and a Master of Arts (M.A.) in Kathak from the renowned Khairagarh University.",
+    "Samidha Karanjekar is an accomplished Kathak performer and dedicated dance educator who has been nurturing disciples since 2014, with over 12 years of rich teaching experience. She has undergone intensive classical training in the prestigious Jaipur Gharana of Kathak under the esteemed Guru Shri Rajkumar Jaipurwale ji and Guru Smt. Archana Patni ji. Her artistic depth is anchored by premier credentials, holding an Alankaar diploma from the Akhil Bharatiya Gandharva Mahavidyalaya Mandal and a Master of Arts (M.A.) degree in Kathak from the renowned Khairagarh University.",
     "Having performed on numerous cultural platforms and stages across various cities in India, Samidha brings dynamic stage experience directly to her classroom in Andheri West. Her teaching philosophy centers on making Kathak simple and enjoyable while steadfastly preserving its classical foundation. Her pedagogy places deliberate focus on four essential pillars: sound technique, rhythmic precision, nuanced expressions, and the holistic artistic growth of each student.",
     "Recognizing that live performance is vital to developing an artist's confidence and poise, Samidha has produced annual student stage showcases for the past 8 consecutive years. These stage recitals give disciples of all age groups the transformative opportunity to perform in complete classical attire with lights and music, building confidence, camaraderie, and a lifelong love for Indian classical dance.",
   ],
@@ -144,8 +144,8 @@ export const aboutTeacher = {
       desc: "Trained under Guru Shri Rajkumar Jaipurwale ji & Guru Smt. Archana Patni ji.",
     },
     {
-      title: "Dual Classical Degrees",
-      desc: "Alankaar from Gandharva Mahavidyalaya & M.A. in Kathak from Khairagarh University.",
+      title: "Classical Qualifications",
+      desc: "Alankaar Diploma from Gandharva Mahavidyalaya & M.A. Degree in Kathak from Khairagarh University.",
     },
     {
       title: "Pan-India Performances",

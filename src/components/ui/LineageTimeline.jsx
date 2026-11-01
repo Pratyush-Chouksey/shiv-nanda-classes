@@ -48,7 +48,7 @@ export default function LineageTimeline() {
       title: "Samidha Karanjekar",
       devanagari: "विदुषी समिधा कारंजेकर",
       subtitle: "Performer, Teacher & Founder (Since 2014)",
-      desc: "Alankaar from Akhil Bharatiya Gandharva Mahavidyalaya Mandal and M.A. in Kathak from Khairagarh University. Nurturing students in Andheri West, Mumbai with 12+ years of teaching excellence.",
+      desc: "Alankaar Diploma from Akhil Bharatiya Gandharva Mahavidyalaya Mandal and M.A. in Kathak from Khairagarh University. Nurturing students in Andheri West, Mumbai with 12+ years of teaching excellence.",
       badge: "Alankaar • M.A. Kathak",
     },
     {

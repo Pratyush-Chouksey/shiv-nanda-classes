@@ -131,7 +131,7 @@ export default function CoursesSection({ onOpenTrial }) {
             <span className="w-10 h-px bg-antique-gold/50" />
           </div>
           <p className="text-sm sm:text-base text-charcoal/80 font-sans mt-4 max-w-lg mx-auto leading-relaxed">
-            From young beginners taking their first steps to adult enthusiasts and Gandharva degree aspirants, every disciple is mentored with warmth, precision, and joy.
+            From young beginners taking their first steps to adult enthusiasts and Gandharva diploma aspirants, every disciple is mentored with warmth, precision, and joy.
           </p>
         </div>
 
