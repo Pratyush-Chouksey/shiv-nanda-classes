@@ -88,19 +88,23 @@ export default function Navbar({ onOpenTrial, isMobileMenuOpen, setIsMobileMenuO
               className="flex items-center gap-2.5 group focus:outline-none focus-visible:ring-2 focus-visible:ring-antique-gold rounded-lg p-1 shrink-0"
               onClick={closeMenu}
             >
-              {/* Om emblem — simple antique-gold circle, no spinning mandala */}
+              {/* Shiv Nanda logo image */}
               <div
                 aria-hidden="true"
-                className="w-9 h-9 rounded-full border border-antique-gold/60 flex items-center justify-center bg-maroon/20 group-hover:border-marigold transition-colors shrink-0"
+                className="w-10 h-10 rounded-full overflow-hidden border border-antique-gold/60 group-hover:border-marigold transition-colors shrink-0 bg-parchment"
               >
-                <span className="font-devanagari text-marigold text-base font-bold leading-none">ॐ</span>
+                <img
+                  src="/logo.jpg"
+                  alt="Shiv Nanda Classes logo"
+                  className="w-full h-full object-cover"
+                />
               </div>
 
               <div className="flex flex-col">
                 <span className={`font-display font-bold text-sm sm:text-base leading-tight transition-colors ${logoText} group-hover:text-marigold`}>
                   Shiva Nanda Kathak
                 </span>
-                <span className={`text-[9px] sm:text-[10px] tracking-widest uppercase font-medium transition-colors ${logoSub}`}>
+                <span className={`text-[9px] sm:text-[10px] tracking-wide uppercase font-medium transition-colors ${logoSub}`}>
                   Samidha Karanjekar · Andheri West
                 </span>
               </div>
@@ -193,12 +197,12 @@ export default function Navbar({ onOpenTrial, isMobileMenuOpen, setIsMobileMenuO
 
           {/* Logo at top of menu */}
           <div className="pt-14 px-6 pb-2 flex items-center gap-2.5">
-            <div className="w-8 h-8 rounded-full border border-antique-gold/60 flex items-center justify-center">
-              <span className="font-devanagari text-marigold text-sm font-bold">ॐ</span>
+            <div className="w-9 h-9 rounded-full overflow-hidden border border-antique-gold/60 shrink-0 bg-parchment">
+              <img src="/logo.jpg" alt="Shiv Nanda Classes logo" className="w-full h-full object-cover" />
             </div>
             <div>
               <div className="font-display font-bold text-warm-white text-sm leading-tight">Shiva Nanda Kathak</div>
-              <div className="text-[9px] text-marigold/70 tracking-widest uppercase">Samidha Karanjekar · Andheri West</div>
+              <div className="text-[9px] text-marigold/70 tracking-wide uppercase">Samidha Karanjekar · Andheri West</div>
             </div>
           </div>
 

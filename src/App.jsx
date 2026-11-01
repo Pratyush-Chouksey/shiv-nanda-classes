@@ -20,6 +20,7 @@ import LazySection from './components/ui/LazySection';
 const GuruSection = lazy(() => import('./sections/GuruSection'));
 const PhilosophySection = lazy(() => import('./sections/PhilosophySection'));
 const CoursesSection = lazy(() => import('./sections/CoursesSection'));
+const PhotoGallerySection = lazy(() => import('./sections/PhotoGallerySection'));
 const GallerySection = lazy(() => import('./sections/GallerySection'));
 const MudraSection = lazy(() => import('./sections/MudraSection'));
 const ScheduleSection = lazy(() => import('./sections/ScheduleSection'));
@@ -151,6 +152,11 @@ export default function App() {
           <LazySection id="courses" minHeight="550px">
             <MandalaSectionDivider />
             <CoursesSection onOpenTrial={handleOpenTrial} />
+          </LazySection>
+
+          {/* Anchor #photos — Real photo gallery */}
+          <LazySection id="photos" minHeight="500px">
+            <PhotoGallerySection />
           </LazySection>
 
           {/* Anchor #gallery (YouTube videos) */}

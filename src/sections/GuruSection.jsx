@@ -66,7 +66,7 @@ export default function GuruSection({ onOpenTrial }) {
     {
       level: 'Guru',
       title: 'Guru Shri Rajkumar Jaipurwale ji',
-      secondGuru: 'Guru Smt. [TODO: Add Second Guru Name]',
+      secondGuru: 'Guru Smt. Archana Patni ji',
       devanagari: 'गुरुवर्य श्री राजकुमार जयपूरवाले जी',
       desc: 'Direct tutelage under Jaipur Gharana maestros, passing down oral Padant, classical bandishes, and Vandanas.',
     },
@@ -172,10 +172,7 @@ export default function GuruSection({ onOpenTrial }) {
             </div>
 
             <p className="text-base sm:text-lg text-charcoal leading-relaxed">
-              <span className="font-serif text-3xl font-bold text-maroon float-left mr-2.5 leading-none">
-                S
-              </span>
-              amidha Karanjekar is an accomplished Kathak performer and educator who has guided disciples since 2014. Grounded in the prestigious Jaipur Gharana, her training traces directly through stalwarts Guru Shri Rajkumar Jaipurwale ji and Guru Smt. [TODO: Add Second Guru Name].
+              Samidha Karanjekar is an accomplished Kathak performer and educator who has guided disciples since 2014. Grounded in the prestigious Jaipur Gharana, her training traces directly through stalwarts Guru Shri Rajkumar Jaipurwale ji and Guru Smt. Archana Patni ji.
             </p>
 
             <p className="text-sm sm:text-base text-charcoal/85 leading-relaxed">

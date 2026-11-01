@@ -7,7 +7,7 @@ import { Sparkles, Calendar, Award } from 'lucide-react';
  * LineageTimeline Component
  * Vertical timeline depicting the sacred Guru-Shishya Parampara:
  * 1. Jaipur Gharana
- * 2. Guru Shri Rajkumar Jaipurwale ji (& Guru Smt. [TODO: Add Second Guru Name])
+ * 2. Guru Shri Rajkumar Jaipurwale ji (& Guru Smt. Archana Patni ji)
  * 3. Samidha Karanjekar
  * 4. Students & Disciples
  * 
@@ -37,10 +37,10 @@ export default function LineageTimeline() {
     {
       step: "02",
       title: "Guru Shri Rajkumar Jaipurwale ji",
-      secondGuru: "Guru Smt. [TODO: Add Second Guru Name]",
+      secondGuru: "Guru Smt. Archana Patni ji",
       devanagari: "गुरुवर्य श्री राजकुमार जयपूरवाले जी",
       subtitle: "Gharana Maestro & Direct Mentor",
-      desc: "Intensive training under the legendary Jaipur Gharana stalwart Guru Shri Rajkumar Jaipurwale ji and esteemed Guru Smt. [TODO: Add Second Guru Name], passing down oral Padant, classical bandishes, and traditional Vandanas.",
+      desc: "Intensive training under the legendary Jaipur Gharana stalwart Guru Shri Rajkumar Jaipurwale ji and esteemed Guru Smt. Archana Patni ji, passing down oral Padant, classical bandishes, and traditional Vandanas.",
       badge: "Direct Guru Shishya Parampara",
     },
     {

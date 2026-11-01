@@ -11,7 +11,7 @@
  * - Socials: Instagram (https://www.instagram.com/samidha.kathak),
  *            Facebook (https://www.facebook.com/share/1CMuwVCfva/),
  *            YouTube (https://youtube.com/@samidhakaranjekar)
- * - Lineage: Jaipur Gharana under Guru Shri Rajkumar Jaipurwale ji & Guru Smt. [TODO: Add Second Guru Name]
+ * - Lineage: Jaipur Gharana under Guru Shri Rajkumar Jaipurwale ji & Guru Smt. Archana Patni ji
  * - Qualifications: Alankaar from Gandharva Mahavidyalaya; M.A. in Kathak from Khairagarh University
  * - Philosophy: Making Kathak simple and enjoyable while preserving its classical foundation.
  *               Teaching focuses on technique, rhythm, expressions and individual growth.
@@ -117,7 +117,7 @@ export const aboutTeacher = {
     },
     {
       // TODO: Client to provide exact second guru name
-      name: "Guru Smt. [TODO: Add Second Guru Name]",
+      name: "Guru Smt. Archana Patni ji",
       role: "Guru & Mentor",
       note: "Advanced guidance in classical repertoire and expressions",
     },
@@ -132,7 +132,7 @@ export const aboutTeacher = {
   
   // Warm, well-written 3 paragraphs strictly following verified facts
   bioParagraphs: [
-    "Samidha Karanjekar is an accomplished Kathak performer and dedicated dance educator who has been nurturing disciples since 2014, with over 12 years of rich teaching experience. She has undergone intensive classical training in the prestigious Jaipur Gharana of Kathak under the esteemed Guru Shri Rajkumar Jaipurwale ji and Guru Smt. [TODO: Add Second Guru Name]. Her artistic depth is anchored by premier academic and classical credentials, holding an Alankaar from the Akhil Bharatiya Gandharva Mahavidyalaya Mandal and a Master of Arts (M.A.) in Kathak from the renowned Khairagarh University.",
+    "Samidha Karanjekar is an accomplished Kathak performer and dedicated dance educator who has been nurturing disciples since 2014, with over 12 years of rich teaching experience. She has undergone intensive classical training in the prestigious Jaipur Gharana of Kathak under the esteemed Guru Shri Rajkumar Jaipurwale ji and Guru Smt. Archana Patni ji. Her artistic depth is anchored by premier academic and classical credentials, holding an Alankaar from the Akhil Bharatiya Gandharva Mahavidyalaya Mandal and a Master of Arts (M.A.) in Kathak from the renowned Khairagarh University.",
     "Having performed on numerous cultural platforms and stages across various cities in India, Samidha brings dynamic stage experience directly to her classroom in Andheri West. Her teaching philosophy centers on making Kathak simple and enjoyable while steadfastly preserving its classical foundation. Her pedagogy places deliberate focus on four essential pillars: sound technique, rhythmic precision, nuanced expressions, and the holistic artistic growth of each student.",
     "Recognizing that live performance is vital to developing an artist's confidence and poise, Samidha has produced annual student stage showcases for the past 8 consecutive years. These stage recitals give disciples of all age groups the transformative opportunity to perform in complete classical attire with lights and music, building confidence, camaraderie, and a lifelong love for Indian classical dance.",
   ],
@@ -142,7 +142,7 @@ export const aboutTeacher = {
   highlights: [
     {
       title: "Jaipur Gharana Lineage",
-      desc: "Trained under Guru Shri Rajkumar Jaipurwale ji & Guru Smt. [TODO: Add Second Guru Name].",
+      desc: "Trained under Guru Shri Rajkumar Jaipurwale ji & Guru Smt. Archana Patni ji.",
     },
     {
       title: "Dual Classical Degrees",
@@ -1235,7 +1235,7 @@ export const footerContent = {
   locationSummary: "Society 33, D3, MHADA Colony, SVP Nagar, Andheri West, Mumbai – 400053",
   quickLinksTitle: "Quick Navigation",
   lineageTitle: "Gharana & Tradition",
-  lineageSummary: "Jaipur Gharana classical training under Guru Shri Rajkumar Jaipurwale ji and Guru Smt. [TODO: Add Second Guru Name]. Alankaar from Gandharva Mahavidyalaya & M.A. in Kathak from Khairagarh University.",
+  lineageSummary: "Jaipur Gharana classical training under Guru Shri Rajkumar Jaipurwale ji and Guru Smt. Archana Patni ji. Alankaar from Gandharva Mahavidyalaya & M.A. in Kathak from Khairagarh University.",
   contactTitle: "Studio Contact",
   phoneDisplay: "99207 64766",
   addressShort: "SVP Nagar, MHADA Colony, near Telephone Exchange, Andheri West, Mumbai",

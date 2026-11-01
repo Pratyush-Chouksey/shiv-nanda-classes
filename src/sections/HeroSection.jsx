@@ -33,7 +33,8 @@ function JharokhaPhoto({ className = '' }) {
           <img
             src={heroImg}
             alt="Samidha Karanjekar performing Kathak — Jaipur Gharana"
-            className="w-full h-full object-cover object-top"
+            className="w-full h-full object-cover"
+            style={{ objectPosition: 'center 8%' }}
             loading="eager"
             fetchPriority="high"
             decoding="sync"
