@@ -127,8 +127,8 @@ export default function LineageTimeline() {
                 </h4>
 
                 {node.secondGuru && (
-                  <p className="text-xs text-temple-gold/90 font-medium italic mt-0.5">
-                    & {node.secondGuru}
+                  <p className="text-xs sm:text-sm text-temple-gold font-medium mt-0.5">
+                    and {node.secondGuru}
                   </p>
                 )}
 

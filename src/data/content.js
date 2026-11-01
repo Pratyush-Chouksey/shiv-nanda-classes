@@ -116,9 +116,8 @@ export const aboutTeacher = {
       note: "Primary Gharana training in rhythmic velocity and classical aesthetics",
     },
     {
-      // TODO: Client to provide exact second guru name
       name: "Guru Smt. Archana Patni ji",
-      role: "Guru & Mentor",
+      role: "Guru",
       note: "Advanced guidance in classical repertoire and expressions",
     },
   ],

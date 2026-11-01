@@ -287,8 +287,8 @@ export default function GuruSection({ onOpenTrial }) {
                     {node.title}
                   </h4>
                   {node.secondGuru && (
-                    <p className="text-xs text-charcoal-muted italic">
-                      Co-Mentor: {node.secondGuru}
+                    <p className="text-sm sm:text-base font-serif font-bold text-maroon">
+                      and {node.secondGuru}
                     </p>
                   )}
                   <p className="text-xs sm:text-sm text-charcoal/80 leading-relaxed font-sans pt-0.5">
