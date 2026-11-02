@@ -53,7 +53,7 @@ export default function GuruSection({ onOpenTrial }) {
     { value: '12+', label: 'Years Teaching', sub: 'In Andheri West' },
     { value: '8', label: 'Annual Showcases', sub: 'Full stage recitals' },
     { value: 'Jaipur', label: 'Gharana Tradition', sub: 'Pure classical lineage' },
-    { value: 'Alankaar', label: 'Board Honors', sub: 'Gandharva Mahavidyalaya' },
+    { value: 'Alankaar', label: 'Gandharva University', sub: 'Board Honors' },
   ];
 
   const lineageNodes = [
@@ -74,7 +74,7 @@ export default function GuruSection({ onOpenTrial }) {
       level: 'Founder & Mentor',
       title: 'Samidha Karanjekar',
       devanagari: 'विदुषी समिधा कारंजेकर',
-      desc: 'Alankaar Diploma from Gandharva Mahavidyalaya and M.A. in Kathak from Khairagarh University. Guiding disciples since 2014.',
+      desc: 'Alankaar from Gandharva University and M.A. in Kathak from Khairagarh University. Guiding disciples since 2014.',
     },
     {
       level: 'Disciples',
@@ -190,8 +190,8 @@ export default function GuruSection({ onOpenTrial }) {
                   <Award className="w-4 h-4" />
                 </div>
                 <div>
-                  <h3 className="text-xs font-bold text-maroon uppercase tracking-wide">Alankaar Diploma</h3>
-                  <p className="text-[11px] text-charcoal-muted mt-0.5">Akhil Bharatiya Gandharva Mahavidyalaya</p>
+                  <h3 className="text-xs font-bold text-maroon uppercase tracking-wide">Alankaar in Kathak</h3>
+                  <p className="text-[11px] text-charcoal-muted mt-0.5">Gandharva University</p>
                 </div>
               </div>
 
@@ -200,8 +200,8 @@ export default function GuruSection({ onOpenTrial }) {
                   <GraduationCap className="w-4 h-4" />
                 </div>
                 <div>
-                  <h3 className="text-xs font-bold text-maroon uppercase tracking-wide">M.A. Degree in Kathak</h3>
-                  <p className="text-[11px] text-charcoal-muted mt-0.5">Khairagarh Performing Arts University</p>
+                  <h3 className="text-xs font-bold text-maroon uppercase tracking-wide">M.A. in Kathak</h3>
+                  <p className="text-[11px] text-charcoal-muted mt-0.5">Khairagarh University</p>
                 </div>
               </div>
             </div>
