@@ -53,7 +53,7 @@ export default function GuruSection({ onOpenTrial }) {
     { value: '12+', label: 'Years Teaching', sub: 'In Andheri West' },
     { value: '8', label: 'Annual Showcases', sub: 'Full stage recitals' },
     { value: 'Jaipur', label: 'Gharana Tradition', sub: 'Pure classical lineage' },
-    { value: 'Alankaar', label: 'Gandharva University', sub: 'Board Honors' },
+    { value: 'Alankaar', label: 'Gandharva University', sub: '' },
   ];
 
   const lineageNodes = [
@@ -223,8 +223,8 @@ export default function GuruSection({ onOpenTrial }) {
               <div className="text-xs uppercase tracking-wider font-bold text-charcoal mt-1">
                 {stat.label}
               </div>
-              <div className="text-[11px] text-charcoal-muted mt-0.5">
-                {stat.sub}
+              <div className="text-[11px] text-charcoal-muted mt-0.5 min-h-[16px]">
+                {stat.sub || '\u00A0'}
               </div>
             </div>
           ))}
